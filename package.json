@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "chai": "^4.5.0",
+    "jsonwebtoken": "^9.0.2",
+    "mocha": "^11.7.1",
+    "node-fetch": "^2.7.0",
+    "nyc": "^17.1.0",
+    "sinon": "^21.0.0"
+  }
+}
