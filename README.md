@@ -19,17 +19,3 @@
 - ✅ Extensible and modular design  
 - ✅ Ready for scaling in distributed systems  
 
----
-
-## 📂 Repository Structure
-
-Text-Editing-Server/
-├── .nyc_output/ # Code coverage reports
-├── data/ # Config/data storage
-├── docs-server/ # Document Server (core editing engine)
-├── proxy-server/ # Proxy Server (client-facing gateway)
-├── test/ # Test suite
-├── jwtTokenGetter.js # JWT token utility
-├── package.json
-├── package-lock.json
-└── readme.pdf
